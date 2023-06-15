@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-ylsv-plugin",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "plugin for multifunctional project",
   "keywords": [
     "eslint",
